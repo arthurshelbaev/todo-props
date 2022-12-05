@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import Header from "../Header/Header"
 import Main from "../Main/Main"
-import taskBase from "../Tasks"
+import taskBase from "../tasks"
 import styles from "./App.module.css"
 
 function App () {
